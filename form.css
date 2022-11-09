@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+    color: gray;
+    text-decoration: underline;
+}
+.container .row .col{
+    margin-bottom: 20px;
+}
